@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/aladeldc/static/css/main.d683bd1b.css",
+    "main.js": "/aladeldc/static/js/main.9399a721.js",
+    "static/js/787.c61fb9ba.chunk.js": "/aladeldc/static/js/787.c61fb9ba.chunk.js",
+    "static/media/screen4.png": "/aladeldc/static/media/screen4.c46425b6b881db447ad0.png",
+    "static/media/aladelbanner.png": "/aladeldc/static/media/aladelbanner.68e712fb64be60a01a2f.png",
+    "static/media/screen2.png": "/aladeldc/static/media/screen2.387e813eadfbfae9e43f.png",
+    "static/media/screen3.jpg": "/aladeldc/static/media/screen3.d0dd8a8b156944d72277.jpg",
+    "static/media/aladellogo.png": "/aladeldc/static/media/aladellogo.a0fc7aca7f1f63d49466.png",
+    "index.html": "/aladeldc/index.html",
+    "main.d683bd1b.css.map": "/aladeldc/static/css/main.d683bd1b.css.map",
+    "main.9399a721.js.map": "/aladeldc/static/js/main.9399a721.js.map",
+    "787.c61fb9ba.chunk.js.map": "/aladeldc/static/js/787.c61fb9ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d683bd1b.css",
+    "static/js/main.9399a721.js"
+  ]
+}
